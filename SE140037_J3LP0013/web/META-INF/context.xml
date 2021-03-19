@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/SE140037_J3LP0013">
+    <Resource 
+        name="HanaShop"
+        auth="Container"
+        type="javax.sql.DataSource"
+        driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+        url="jdbc:sqlserver://localhost:1433;databaseName=HanaShop;instanceName=SQLEXPRESS"
+        username="sa"
+        password="sitrong"
+    />
+</Context>
