@@ -18,17 +18,17 @@
 
 ## **Home page**
 <p align="center">
-  <img  src="./readme_assets/Home.png" width="70%">
+  <img  src="./readme_assets/Home.png">
 </p>
 
 ## **Cart page**
 <p align="center">
-  <img  src="./readme_assets/Cart.png" width="70%">
+  <img  src="./readme_assets/Cart.png">
 </p>
 
 ## **Login page**
 <p align="center">
-  <img  src="./readme_assets/Login.png" width="70%">
+  <img  src="./readme_assets/Login.png">
 </p>
 
 ***
