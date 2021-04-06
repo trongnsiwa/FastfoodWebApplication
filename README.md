@@ -1,9 +1,9 @@
-<h1 align="center">Hana Shop - Fastfood Web Application</h1>
+<h1 align="center">:hamburger: Hana Shop - Fastfood Web Application :hamburger:</h1>
 
-## Description 
+## :pencil2: Description 
 - A java web app that allows users to order fast food and helps admin to manage the list of foods and drinks in the system.
 
-## Technicals
+## :computer: Technicals
 - Java Web Application
 - Java Servlet and JSP service
 - Apache Tomcat 8.0.27.0
