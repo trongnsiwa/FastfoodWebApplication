@@ -14,7 +14,7 @@
 
 ---
 
-## Demo
+# Demo
 
 ## **Home page**
 <p align="center">
