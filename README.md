@@ -12,7 +12,9 @@
 - Google email login integration (Login by Gmail)
 - PayPal integration
 
-## Demo
+---
+
+# Demo
 
 ## **Home page**
 <p align="center">
@@ -28,5 +30,7 @@
 <p align="center">
   <img  src="./readme_assets/Login.png" width="70%">
 </p>
+
+***
 
 ✨ *Thank you for visiting* ✨
