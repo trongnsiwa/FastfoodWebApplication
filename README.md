@@ -14,17 +14,17 @@
 
 ## Demo
 
-### Home page
+## **Home page**
 <p align="center">
   <img  src="./readme_assets/Home.png" width="70%">
 </p>
 
-### Cart page
+## **Cart page**
 <p align="center">
   <img  src="./readme_assets/Cart.png" width="70%">
 </p>
 
-### Login page
+## **Login page**
 <p align="center">
   <img  src="./readme_assets/Login.png" width="70%">
 </p>
